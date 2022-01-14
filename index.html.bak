@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>j0sh dot info</title>
+
+<style>
+  body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 8px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html { background: #1c1c1c; color: white; }
+    a { color: #6bf; }
+    a:visited { color: #f8f; }
+    a:active { color: red; }
+  }
+</style>
+
+<h1>j0sh dot info</h1>
+
+<nav>
+  <em>home</em> |
+  <a href="bike_log.html">bike log</a> |
+  <a href="immaculate.html">immaculate mailing list</a> |
+  <a href="misc.html">misc</a>
+</nav>
+
+<p>welcome to j0sh.info. this is a hub for things i am okay with people knowing about me.
+you'll find collections of links i enjoy or find useful, maybe a couple of images from my life, 
+some text posts, and probably some other odds an ends.</p>
+
+<h2>Contact</h2>
+
+<table>
+  <tr>
+    <td>Email:</td>
+    <td><a href="mailto:j0sh@fastmail.com">j0sh@fastmail.com</a></td>
+  </tr>
+  <tr>
+    <td>Twitter:</td>
+    <td><a href="https://twitter.com/j0shdotinfo">@j0shdotinfo</a></td>
+  </tr>
+  <tr>
+	<td>Messaging:</td>
+	<td>@lintroller:matrix.org
+</table>
+	
+</html>
