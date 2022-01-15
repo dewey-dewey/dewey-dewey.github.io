@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>misc.</title>
+
+<style>
+  body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 8px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html { background: #1c1c1c; color: white; }
+    a { color: #6bf; }
+    a:visited { color: #f8f; }
+    a:active { color: red; }
+  }
+</style>
+
+<h1>miscellaneous</h1>
+
+<nav>
+  <a href="j0sh.info">home</a> |
+  <a href="bike.html">bike!</a> |
+  <a href="https://buttondown.email/j0shdotinfo">immaculate mailing list</a> |
+  <em>misc.</em>
+</nav>
+
+<h2>useful links</h2>
+
+<ul>
+	<li><a href="https://techlearningcollective.com/foundations/">tech learning collective - computer foundations</a> - radical collective providing guides for a range of computer skills</li>
+	<li><a href="https://solar.lowtechmagazine.com/about.html">low tech magazine</a> - <i>a solar powered magazine all about low tech solutions and high tech problems.</li>
+	
+	
+</html>
