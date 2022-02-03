@@ -1,25 +1,3 @@
-<!html>
-<table>
-	<tr>
-		<td>date:</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>distance:</td>
-		<td>
-	</tr>
-	<tr>
-		<td>conditions:</td>
-		<td>
-	<tr>
-		<td>notes:</td>
-		<td></td>
-	</tr>
-</table>
-<br>
-<br>
-</html>
-
 <!DOCTYPE html>
 <html lang="en">
 
