@@ -65,3 +65,22 @@ and i rely on it. i also really want a new one!! hopefully, this is the year i w
 </table>
 	
 </html>
+
+<table>
+	<tr>
+		<td>date:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>distance:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>conditions:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>notes:</td>
+		<td></td>
+	</tr>
+</table>
